@@ -1,0 +1,6 @@
+{
+  "name": "ChartSage AI",
+  "description": "Professional stock and trend chart analyzer. Upload any chart image to get instant AI-driven forecasts, trend predictions, and key technical levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Visual Pattern Extraction", "AI Price Forecasting", "Trend Analysis"]
+}
